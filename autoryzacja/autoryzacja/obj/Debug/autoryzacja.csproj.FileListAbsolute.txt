@@ -1,0 +1,17 @@
+d:\C#Projects\autoryzacja\autoryzacja\bin\Debug\autoryzacja.exe.config
+d:\C#Projects\autoryzacja\autoryzacja\bin\Debug\autoryzacja.exe
+d:\C#Projects\autoryzacja\autoryzacja\bin\Debug\autoryzacja.pdb
+d:\C#Projects\autoryzacja\autoryzacja\obj\Debug\autoryzacja.csprojAssemblyReference.cache
+d:\C#Projects\autoryzacja\autoryzacja\obj\Debug\MainWindow.g.cs
+d:\C#Projects\autoryzacja\autoryzacja\obj\Debug\App.g.cs
+d:\C#Projects\autoryzacja\autoryzacja\obj\Debug\autoryzacja_MarkupCompile.cache
+d:\C#Projects\autoryzacja\autoryzacja\obj\Debug\autoryzacja_MarkupCompile.lref
+d:\C#Projects\autoryzacja\autoryzacja\obj\Debug\MainWindow.baml
+d:\C#Projects\autoryzacja\autoryzacja\obj\Debug\autoryzacja.g.resources
+d:\C#Projects\autoryzacja\autoryzacja\obj\Debug\autoryzacja.Properties.Resources.resources
+d:\C#Projects\autoryzacja\autoryzacja\obj\Debug\autoryzacja.csproj.GenerateResource.cache
+d:\C#Projects\autoryzacja\autoryzacja\obj\Debug\autoryzacja.csproj.CoreCompileInputs.cache
+d:\C#Projects\autoryzacja\autoryzacja\obj\Debug\autoryzacja.exe
+d:\C#Projects\autoryzacja\autoryzacja\obj\Debug\autoryzacja.pdb
+d:\C#Projects\autoryzacja\autoryzacja\obj\Debug\MainWindow2.g.cs
+d:\C#Projects\autoryzacja\autoryzacja\obj\Debug\MainWindow2.baml
